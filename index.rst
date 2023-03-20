@@ -15,11 +15,25 @@ Abstract
 
 Describes the thermal tests completed with the tunable laser, summarizes the results, and points towards additional results.
 
-Add content here
-================
+Overview
+========
 
-Add content here.
-See the `reStructuredText Style Guide <https://developer.lsst.io/restructuredtext/style.html>`__ to learn how to create sections, links, images, tables, equations, and more.
+`Confluence site <https://confluence.lsstcorp.org/display/LTS/Laser+Tests>`__
+
+Initial Laser Cycle Test
+========================
+
+Only the laser, no enclosure.
+
+Description: https://confluence.lsstcorp.org/display/LTS/Initial+Laser+Cycle+Test
+Results: https://docs.google.com/presentation/d/1SmqNiobpbk2kIT3VAmz-6dqQMcDbE6dsCFcjIJiAd_U/edit#slide=id.p
+
+Thermal Control System Functional Test
+======================================
+
+Description: https://confluence.lsstcorp.org/display/LTS/Thermal+Control+System+Functional+Test
+Results: https://docs.google.com/presentation/d/1p8yPdrvhl_6cgABfvNQL5ynzdnKF--kYBV-n4PCPAjQ/edit#slide=id.g21f7d06ac78_0_97
+
 
 .. Make in-text citations with: :cite:`bibkey`.
 .. Uncomment to use citations
